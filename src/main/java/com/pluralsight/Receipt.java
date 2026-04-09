@@ -15,6 +15,10 @@ public class Receipt {
         // Step 2: Question 5
         boolean isRaining = false;
 
+        System.out.println("There are " + daysInWeek + "days in a week.");
+        System.out.println("Coffee cost $" + coffeePrice);
+        System.out.println("My favorite letter is " + favoriteLetter);
+        System.out.println("Is it raining? " + isRaining);
 
 
 
