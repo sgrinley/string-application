@@ -21,6 +21,22 @@ public class Receipt {
         System.out.println("Is it raining? " + isRaining);
 
 
+        // STEP 3: Question 1
+        String itemName = "Mango";
+
+        double itemPrice = 7.10;
+
+        // STEP 3: Question 2
+        int quantity = 3;
+
+        // STEP 3: Question 3
+        System.out.println("You bought" + quantity + " " + itemName + "for $" + itemPrice);
+
+
+
+
+
+
 
     }
 }
